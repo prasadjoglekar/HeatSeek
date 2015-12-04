@@ -1,0 +1,6 @@
+http://www.nyc.gov/html/doh/html/data/chs-data.shtml
+http://newyork.hometownlocator.com/zip-codes/data,zipcode,10014.cfm
+
+
+http://bl.ocks.org/mbostock/5126418
+https://prasadjoglekar.cartodb.com/viz/79ad34e0-9a7e-11e5-9d32-0ea31932ec1d/map
